@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /conference/
-title: conference
+permalink: /presentations/
+title: presentations
 type: research
 description: conference and talk.
 nav: true

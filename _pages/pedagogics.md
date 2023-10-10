@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /philosophy/
-title: philosophy
+permalink: /pedagogics/
+title: pedagogics
 type: teaching
 description: philosophy description.
 nav: true
