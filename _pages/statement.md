@@ -2,6 +2,7 @@
 layout: page
 permalink: /statement/
 title: statement
+pretty-title: Experience
 type: research
 description: research statement.
 nav: true

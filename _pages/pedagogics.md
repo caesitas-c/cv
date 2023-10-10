@@ -2,6 +2,7 @@
 layout: page
 permalink: /pedagogics/
 title: pedagogics
+pretty-title: Experience
 type: teaching
 description: philosophy description.
 nav: true
