@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 118 West 109th Street, New York, NY 10025. 6099037019.
+subtitle: 118 West 109th Street, New York, NY 10025. 
 
 profile:
   align: right
@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>caesitasc@gmail.com</p>
+    <p>(609)-903-7019</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
