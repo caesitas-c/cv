@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 118 West 109th Street, New York, NY 10025. 
+subtitle: 安得羿善射，一箭落旄頭。
 
 profile:
   align: right
