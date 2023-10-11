@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 
-118 West 109th Street, New York, NY 10025. 
-6099037019.
+subtitle: <a href='#'>Affiliations</a>. 118 West 109th Street, New York, NY 10025. 6099037019.
 
 profile:
   align: right
