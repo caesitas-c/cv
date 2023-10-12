@@ -2,9 +2,9 @@
 layout: page
 permalink: /statement/
 title: statement
-pretty-title: Experience
+pretty-title: Statement
 type: research
-description: research statement.
+description: 
 nav: true
 nav_order: 1
 ---
