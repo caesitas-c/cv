@@ -2,7 +2,7 @@
 layout: page
 permalink: /statement/
 title: statement
-pretty-title: Statement
+pretty-title: Research Statement
 type: research
 description: 
 nav: true
