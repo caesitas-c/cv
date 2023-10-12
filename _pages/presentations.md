@@ -2,11 +2,11 @@
 layout: page
 permalink: /presentations/
 title: presentations
-pretty-title: Experience
+pretty-title: Conferences & Talks
 type: research
-description: conference and talk.
+description: 
 nav: true
 nav_order: 3
 ---
 
-conference text.
+text.
