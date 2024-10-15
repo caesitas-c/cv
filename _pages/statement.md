@@ -30,3 +30,39 @@ In the future, I would like to continue my exploration of the complex relationsh
 
 *Block, Lawrence. <i>Eight Million Ways to Die</i> (New York: Arbor House, 1985), 98.
 
+
+1. Symbols and Key Definitions
+S_i = ⟨P_i, F_i, A_i⟩ : Temporal structure of individual i (ecstatic temporality)
+P_i : Past (thrownness)
+F_i : Future (anticipated possibility)
+A_i : Present (emerging through the reversal of the future into the now)
+Th(m): Thinging of a thing m, referring to the dynamic gathering and preservation of temporal experiences.
+Eq(m): Equipmentality of a thing m, representing how things are revealed through wear, use, and decay.
+CH: Composed homogeneity, the cognitive synthesis of multiple temporal-spatial states into a coherent whole.
+\phi_{non}(t): Nonradiant appearance (φαίνεσθαι), representing the presence with self-concealing aspects of phenomena in a state of indeterminacy.
+MA: Metaontic Awareness, aesthetic transcendence arising at the boundary between cognition and sensibility.
+L: Logos, the structure of saying that reveals being through language.
+2. Formalization of Key Concepts
+(1) Recursive Model of Thinging with Temporal Coupling
+Th(m) = \lim_{t \to \infty} \int_{t_0}^{t} (P_i(\tau) \otimes F_i(\tau) \to A_i(\tau)) \, e^{-\lambda (t - \tau)} \, d\tau
+This reflects the recursive gathering of temporal experiences through thinging, preserving unity across dispersed time.
+(2) Equipmentality as the Embodiment of Ontological Disclosure
+Eq(m) = \int_{t_0}^{t} \nabla Th(m) \, d\tau + \sum_{k=1}^{\infty} \Delta P_k
+This formula emphasizes the recursive transformation of things through use and decay, revealing their truth through engagement.
+(3) Composed Homogeneity and Temporal-Spatial Unity
+CH = \lim_{t \to \infty} \left( \int_{\tau_0}^{t} P_i(\tau) \, d\tau + \int_{\tau_0}^{t} F_i(\tau) \, d\tau \right)
+This captures how cognition synthesizes temporal and spatial states into a coherent whole.
+(4) Nonradiant Appearance and the Limits of Logos
+\phi_{non}(t) = \lim_{t \to \infty} \left( A_i(t) \cdot L(t) - \nabla F_i(t) \right)
+This reflects how nonradiant appearances resist full articulation through logos, revealing the self-concealing nature of being.
+(5) Metaontic Awareness through Recursive Sensible Encounters
+MA = \lim_{t \to \infty} \int_{t_0}^{t} \left( (A(\tau) \cdot D(\tau))^k \cdot E(\tau) \cdot (P_i(\tau) \otimes F_i(\tau) \to A_i(\tau)) \right) \, d\tau
+This captures Metaontic Awareness as a boundary experience, transitioning from cognition to aesthetic attunement.
+3. Worldly Cycle: Recursive Synthesis of Thinging, Time, and Space
+Worldly Cycle = \sum_{\text{thing} \in T} Th(\text{thing}) \times (CH \cdot MA)
+This formula reflects how things participate in the recursive unfolding of worldhood.
+4. Aesthetic Ontogenesis: Generating New Existential Modes
+AO = F(E) = \lim_{n \to \infty} \sum_{j=1}^{n} \left( \Delta S_j \cdot Th(m_j) \cdot E_j \right)
+This reflects how Aesthetic Ontogenesis recursively generates new modes of being through encounters.
+
+
