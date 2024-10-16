@@ -30,39 +30,19 @@ In the future, I would like to continue my exploration of the complex relationsh
 
 *Block, Lawrence. <i>Eight Million Ways to Die</i> (New York: Arbor House, 1985), 98.
 
+This framework conceptualizes worldhood as a recursive process, wherein meaning unfolds through temporal alignment. It offers a non-linear model of how individuals and things co-constitute each other’s worlds, generating historical being through encounters.
 
-1. Symbols and Key Definitions
-S_i = ⟨P_i, F_i, A_i⟩ : Temporal structure of individual i (ecstatic temporality)
-P_i : Past (thrownness)
-F_i : Future (anticipated possibility)
-A_i : Present (emerging through the reversal of the future into the now)
-Th(m): Thinging of a thing m, referring to the dynamic gathering and preservation of temporal experiences.
-Eq(m): Equipmentality of a thing m, representing how things are revealed through wear, use, and decay.
-CH: Composed homogeneity, the cognitive synthesis of multiple temporal-spatial states into a coherent whole.
-\phi_{non}(t): Nonradiant appearance (φαίνεσθαι), representing the presence with self-concealing aspects of phenomena in a state of indeterminacy.
-MA: Metaontic Awareness, aesthetic transcendence arising at the boundary between cognition and sensibility.
-L: Logos, the structure of saying that reveals being through language.
-2. Formalization of Key Concepts
-(1) Recursive Model of Thinging with Temporal Coupling
-Th(m) = \lim_{t \to \infty} \int_{t_0}^{t} (P_i(\tau) \otimes F_i(\tau) \to A_i(\tau)) \, e^{-\lambda (t - \tau)} \, d\tau
-This reflects the recursive gathering of temporal experiences through thinging, preserving unity across dispersed time.
-(2) Equipmentality as the Embodiment of Ontological Disclosure
-Eq(m) = \int_{t_0}^{t} \nabla Th(m) \, d\tau + \sum_{k=1}^{\infty} \Delta P_k
-This formula emphasizes the recursive transformation of things through use and decay, revealing their truth through engagement.
-(3) Composed Homogeneity and Temporal-Spatial Unity
-CH = \lim_{t \to \infty} \left( \int_{\tau_0}^{t} P_i(\tau) \, d\tau + \int_{\tau_0}^{t} F_i(\tau) \, d\tau \right)
-This captures how cognition synthesizes temporal and spatial states into a coherent whole.
-(4) Nonradiant Appearance and the Limits of Logos
-\phi_{non}(t) = \lim_{t \to \infty} \left( A_i(t) \cdot L(t) - \nabla F_i(t) \right)
-This reflects how nonradiant appearances resist full articulation through logos, revealing the self-concealing nature of being.
-(5) Metaontic Awareness through Recursive Sensible Encounters
-MA = \lim_{t \to \infty} \int_{t_0}^{t} \left( (A(\tau) \cdot D(\tau))^k \cdot E(\tau) \cdot (P_i(\tau) \otimes F_i(\tau) \to A_i(\tau)) \right) \, d\tau
-This captures Metaontic Awareness as a boundary experience, transitioning from cognition to aesthetic attunement.
-3. Worldly Cycle: Recursive Synthesis of Thinging, Time, and Space
-Worldly Cycle = \sum_{\text{thing} \in T} Th(\text{thing}) \times (CH \cdot MA)
-This formula reflects how things participate in the recursive unfolding of worldhood.
-4. Aesthetic Ontogenesis: Generating New Existential Modes
-AO = F(E) = \lim_{n \to \infty} \sum_{j=1}^{n} \left( \Delta S_j \cdot Th(m_j) \cdot E_j \right)
-This reflects how Aesthetic Ontogenesis recursively generates new modes of being through encounters.
+Time, in this model, is structured following Martin Heidegger as ecstatic temporality, where past, future, and present are dynamically interconnected. The past (P) persists as thrownness, providing the ontological backdrop that informs and limits future possibilities. The future (F) unfolds as a horizon of anticipated possibilities, which only become actualized in the present (A) through the act of reversal. The present emerges as a dynamic synthesis of what has been and what is to come:
+
+P_i(τ) ⊗ F_i(τ) → A_i(τ)
+
+Every moment participates in the ongoing construction of meaning, integrating what has been and what is to come, ensuring that meaning is always becoming. In the totality of significances, the thing acts as a nodal point. Unlike an object, which is a cognitive representation of a thing, a thing in its lived encounter is an evolving time-space. Each encounter leaves traces that reshape its ontic contents as preserved in logos (in Heidegger's words, the gathering gatheredness), even when the thing is only recalled, dreamed of, imagined, or hinted as the absent.
+
+∇ Th(m)
+
+It is noteworthy that encounters with things can emerge as purely embodied interactions—that is, skilled actions that do not require conscious deliberation or reflection. Essentially, they unfold in sensible forms—forms that exist as pre-understood backgrounds of meaning, forming the basis for further interpretation and engagement without needing explicit conceptualization. This thinging process is inherently historicizing, as encounters draw forward the thing’s preimage—the sedimented layers of prior meaning-making—and reconfigure it into a postimage, projecting new possibilities. Many of these possibilities remain latent, yet each potential glimpsed within the encounter becomes an immanent part of the thing’s being at that moment. This creates a labyrinthine structure, where the thing embodies not only what it has been and what it currently is but also what it might have been or could still become. At any spatiotemporal juncture, the thing serves as both an opening and a closure.
+
+Metaontic Awareness is the concept I define as the perceptual transition where conceptual understanding yields to aesthetic attunement as well as its disruption. This transition happens when meaning is no longer sensed as constrained by cognitive categories but as the thing’s self-authorizing presence. This awareness occurs precisely at the boundary where composed homogeneity (CH), which describes how things appear within temporal-spatial contexts as structured givenness (following Kant: though this appearance is a posteriori, it relies on transcendental temporal conditions that render things intelligible), manifests in a way that elevates the subject into the existential confrontation with the occurrence of being by depriving it of its subjectivity, hinting at the divine. Fundamentally, this alignment preserves the freedom of the thing and reflects its dual nature: as Heidegger writes in "The Thing," it contains mortality as part of its structure, stating that “as the shrine of Nothing, death harbors within itself the presencing of Being.” It is also a recursive structure that unfolds through repeated encounters between human beings and things.
 
 
+AO = F(E) = lim (n → ∞) ∑ (j=1 to n) [Δ S_j · Th(m_j) · E_j]
