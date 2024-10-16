@@ -40,58 +40,28 @@ Every moment participates in the ongoing construction of meaning. In the totalit
 
 ∇ Th(m)
 
-It is noteworthy that encounters with things can emerge as purely embodied interactions, that is, skilled actions that do not require conscious deliberation or reflection. Essentially, they unfold in sensible forms, which exist as pre-understood backgrounds of meaning, forming the basis for further interpretation and engagement without needing explicit conceptualization. This thinging process is inherently historicizing, as encounters draw forward the thing’s preimage—the sedimented layers of prior meaning-making—and reconfigure it into a postimage, projecting new possibilities. Many of these possibilities remain latent, yet each potential glimpsed within the encounter becomes an immanent part of the thing’s being at that moment. This creates a labyrinthine structure, where the thing embodies not only what it has been and what it currently is but also what it might have been or could still become. At any spatiotemporal juncture, the thing serves as both an opening and a closure.
-
-Metaontic Awareness is the concept I define as the perceptual transition where conceptual understanding yields to aesthetic attunement as well as its disruption. This transition happens when meaning is no longer sensed as constrained by cognitive categories but as the thing’s self-authorizing presence. This awareness occurs precisely at the boundary where composed homogeneity (CH), which describes how things appear within temporal-spatial contexts as structured givenness (following Kant: though this appearance is a posteriori, it relies on transcendental temporal conditions that render things intelligible), manifests in a way that elevates the subject into the existential confrontation with the occurrence of being by depriving it of its subjectivity, hinting at the divine. Fundamentally, this alignment preserves the freedom of the thing and reflects its dual nature: as Heidegger writes in "The Thing," it contains mortality as part of its structure, stating that “as the shrine of Nothing, death harbors within itself the presencing of Being.” It is also a recursive structure that unfolds through repeated encounters between human beings and things.
-## (2) Equipmentality as Ontological Disclosure
-
-The wear and decay of a thing reveal the limits of its temporality and express a deeper existential truth about finitude. This leads to an ontological disclosure of worldliness:
-
-\[
-Eq(m) = \int_{t_0}^{t_1} \nabla Th(m) \, dt
-\]
-
-This integral shows how equipmentality unfolds gradually, transforming the thing from a functional object into a vessel of existential significance. Its decay reveals worldliness through its constant interaction with time and use.
-
-## (3) Nonradiant Appearance (φαίνεσθαι) and Absence
-
-The thing’s nonradiant appearance arises from its self-concealment, which marks the limits of presence and knowledge. The uncanny emerges precisely from these absences:
+It is noteworthy that encounters with things can emerge as purely embodied interactions, that is, skilled actions that do not require conscious deliberation or reflection. Essentially, they unfold in sensible forms, which exist as pre-understood backgrounds of meaning, forming the basis for further interpretation and engagement without needing explicit conceptualization. This thinging process is inherently historicizing, as encounters draw forward the thing’s preimage—the sedimented layers of prior meaning-making—and reconfigure it into a postimage, projecting new possibilities. Many of these possibilities remain latent, yet each potential glimpsed within the encounter becomes an immanent part of the thing’s being at that moment. This creates a labyrinthine structure, where the thing embodies not only what it has been and what it currently is but also what it might have been or could still become. At any spatiotemporal juncture, the thing serves as both an opening and a closure. At this point, the thing’s nonradiant appearance (φαίνεσθαι) arises from its self-concealment, which marks the limits of sensibility:
 
 \[
 \phi_{\text{non}}(t) = \lim_{t \to \infty} \sum_{i=1}^{n} \left( A_i(t) \cdot \nabla F_i(t) \right)
 \]
 
-This formula represents how moments of indeterminacy accumulate, creating a sense of absence and uncanny presence that both reveals and withholds the transcendent.
+This formula represents how moments of indeterminacy accumulate, creating a sort of uncanny presence that both reveals and withholds the transcendent.
 
-## (4) Metaontic Awareness and the Aesthetic Cycle
+In the meantime, when we use a thing in its equipmentality, the wear and decay of it reveal the limits of its temporality and express a deeper existential truth about finitude. This leads to an ontological disclosure of worldliness:
 
-Metaontic awareness is triggered when the interplay of thinging, equipmentality, and nonradiant appearance allows Dasein to glimpse its finitude. This awareness arises from the cumulative alignment between individual temporality and the thing's ontological disclosure:
+\[
+Eq(m) = \int_{t_0}^{t_1} \nabla Th(m) \, dt
+\]
+
+Then, metaontic awareness is triggered when the interplay of thinging, equipmentality, and nonradiant appearance allows the individual temporality to glimpse its own finitude through the thing's ontological disclosure:
 
 \[
 MA = \lim_{n \to \infty} \sum_{\text{thing} \in T} Eq(\text{thing}) \times \phi_{\text{non}}(t)
 \]
 
-This awareness serves as a bridge between the mundane and the sacred, revealing the impenetrable materiality that binds worldhood and existence.
+Metaontic Awareness is the concept I define as the perceptual transition where conceptual understanding yields to aesthetic attunement as well as its disruption. This transition happens when meaning is no longer sensed as constrained by cognitive categories but as the thing’s self-authorizing presence. This awareness occurs precisely at the boundary where composed homogeneity, which describes how things appear within temporal-spatial contexts as structured givenness (following Kant: though this appearance is a posteriori, it relies on transcendental temporal conditions that render things intelligible), manifests in a way that elevates the subject into the existential confrontation with the occurrence of being by depriving it of its subjectivity, hinting at the divine. Fundamentally, this alignment preserves the freedom of the thing and reflects its dual nature: as Heidegger writes in "The Thing," it contains mortality as part of its structure, stating that “as the shrine of Nothing, death harbors within itself the presencing of Being.” It is also a recursive structure that unfolds through repeated encounters between human beings and things.
 
-## (5) Aesthetic Ontogenesis as the Generative Cycle of Thinging
-
-Aesthetic ontogenesis describes the way new modes of existence emerge through the interaction of Dasein with things. Each encounter with a thing reconstitutes both the individual’s temporal structure and the world’s meaning:
-
-\[
-AO = F(E) = \lim_{n \to \infty} \sum_{j=1}^{n} \Delta S_j \times Th(m_j)
-\]
-
-Here, \(E\) represents a set of aesthetic events, and \(\Delta S_j\) captures the transformation of Dasein’s temporal structure through each encounter. The interaction with things generates new existential possibilities and reshapes both self and world.
-
-## (6) Worldly Cycle: The Continuous Interplay of Thinging and Dasein
-
-The dynamic interaction between thinging, equipmentality, and nonradiant appearance forms a worldly cycle, where the finite experiences of individuals contribute to the continuous unfolding of worldhood:
-
-\[
-\text{Worldly Cycle} = \sum_{\text{thing} \in T} Th(\text{thing}) \times S_i
-\]
-
-This formula expresses how things accumulate temporal interactions across lifetimes, creating a recursive structure that sustains worldhood and allows for its perpetual renewal.
 
 
 
