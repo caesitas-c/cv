@@ -34,36 +34,34 @@ This framework conceptualizes worldhood as a recursive process, wherein meaning 
 
 In the model, time is structured following Martin Heidegger as ecstatic temporality, where past, future, and present are dynamically interconnected. The past (P) persists as thrownness, providing the ontological backdrop that informs and limits future possibilities. The future (F) unfolds as a horizon of anticipated possibilities, which only become actualized in the present (A) through the act of reversal. The present emerges as a dynamic synthesis of what has been and what is to come:
 
-P_i(τ) ⊗ F_i(τ) → A_i(τ)
+$$
+P_i(\tau) \otimes F_i(\tau) \rightarrow A_i(\tau)
+$$
 
 Every moment participates in the ongoing construction of meaning. In the totality of significances, the thing acts as a nodal point. Unlike an object, which is a cognitive representation of a thing, a thing in its lived encounter is an evolving time-space. Each encounter leaves traces that reshape its ontic content as preserved in logos (in Heidegger's words, the gathering gatheredness), even when the thing is only recalled, dreamed of, imagined, or hinted as the absent.
 
-∇ Th(m)
+$$
+\nabla Th(m)
+$$
 
 It is noteworthy that encounters with things can emerge as purely embodied interactions, that is, skilled actions that do not require conscious deliberation or reflection. Essentially, they unfold in sensible forms, which exist as pre-understood backgrounds of meaning, forming the basis for further interpretation and engagement without needing explicit conceptualization. This thinging process is inherently historicizing, as encounters draw forward the thing’s preimage—the sedimented layers of prior meaning-making—and reconfigure it into a postimage, projecting new possibilities. Many of these possibilities remain latent, yet each potential glimpsed within the encounter becomes an immanent part of the thing’s being at that moment. This creates a labyrinthine structure, where the thing embodies not only what it has been and what it currently is but also what it might have been or could still become. At any spatiotemporal juncture, the thing serves as both an opening and a closure. At this point, the thing’s nonradiant appearance (φαίνεσθαι) arises from its self-concealment, which marks the limits of sensibility:
 
-\[
+$$
 \phi_{\text{non}}(t) = \lim_{t \to \infty} \sum_{i=1}^{n} \left( A_i(t) \cdot \nabla F_i(t) \right)
-\]
+$$
 
 This formula represents how moments of indeterminacy accumulate, creating a sort of uncanny presence that both reveals and withholds the transcendent.
 
-In the meantime, when we use a thing in its equipmentality, the wear and decay of it reveal the limits of its temporality and express a deeper existential truth about finitude. This leads to an ontological disclosure of worldliness:
+In the meantime, when we use a thing in its equipmentality, the wear and decay of it confirm the limits of its temporality and express a deeper existential truth about finitude. This leads to an ontological disclosure of worldliness:
 
-\[
+$$
 Eq(m) = \int_{t_0}^{t_1} \nabla Th(m) \, dt
-\]
+$$
 
 Then, metaontic awareness is triggered when the interplay of thinging, equipmentality, and nonradiant appearance allows the individual temporality to glimpse its own finitude through the thing's ontological disclosure:
 
-\[
+$$
 MA = \lim_{n \to \infty} \sum_{\text{thing} \in T} Eq(\text{thing}) \times \phi_{\text{non}}(t)
-\]
+$$
 
-Metaontic Awareness is the concept I define as the perceptual transition where conceptual understanding yields to aesthetic attunement as well as its disruption. This transition happens when meaning is no longer sensed as constrained by cognitive categories but as the thing’s self-authorizing presence. This awareness occurs precisely at the boundary where composed homogeneity, which describes how things appear within temporal-spatial contexts as structured givenness (following Kant: though this appearance is a posteriori, it relies on transcendental temporal conditions that render things intelligible), manifests in a way that elevates the subject into the existential confrontation with the occurrence of being by depriving it of its subjectivity, hinting at the divine. Fundamentally, this alignment preserves the freedom of the thing and reflects its dual nature: as Heidegger writes in "The Thing," it contains mortality as part of its structure, stating that “as the shrine of Nothing, death harbors within itself the presencing of Being.” It is also a recursive structure that unfolds through repeated encounters between human beings and things.
-
-
-
-
-
-AO = F(E) = lim (n → ∞) ∑ (j=1 to n) [Δ S_j · Th(m_j) · E_j]
+Metaontic Awareness is the concept I define as the perceptual transition where conceptual understanding yields to aesthetic attunement as well as its disruption. This transition happens when meaning is no longer sensed as constrained by cognitive categories but as the thing’s self-authorizing presence. This awareness occurs precisely at the boundary where composed homogeneity, which describes how things appear within temporal-spatial contexts as structured givenness (following Kant: though this appearance is a posteriori, it relies on transcendental temporal conditions that render things intelligible), manifests in a way that elevates the subject into the existential confrontation with the occurrence of being by depriving it of its subjectivity, hinting at the divine. Fundamentally, this alignment preserves the freedom of the thing and reflects its dual nature: as Heidegger writes in *The Thing*, it contains mortality as part of its structure, stating that “as the shrine of Nothing, death harbors within itself the presencing of Being.” It is also a recursive structure that unfolds through repeated encounters between human beings and things.
