@@ -38,30 +38,38 @@ $$
 P_i(\tau) \otimes F_i(\tau) \rightarrow A_i(\tau)
 $$
 
-Every moment participates in the ongoing construction of meaning. In the totality of significances, the thing acts as a nodal point. Unlike an object, which is a cognitive representation of a thing, a thing in its lived encounter is an evolving time-space. Each encounter leaves traces that reshape its ontic content as preserved in logos (in Heidegger's words, the gathering gatheredness), even when the thing is only recalled, dreamed of, imagined, or hinted as the absent.
+Every moment participates in the ongoing construction of meaning. In the totality of significances, the thing acts as a nodal point. Unlike an object, which is a cognitive representation of a thing, the thing in its lived encounters is an evolving time-space. Each encounter leaves traces that reshape its ontic content as preserved in logos (in Heidegger's words, the gathering gatheredness), even when the thing is only recalled, dreamed of, imagined, or hinted as the absent.
 
 $$
-\nabla Th(m)
+\nabla Th(Φ)
 $$
 
-It is noteworthy that encounters with things can emerge as purely embodied interactions, that is, skilled actions that do not require conscious deliberation or reflection. Essentially, they unfold in sensible forms, which exist as pre-understood backgrounds of meaning, forming the basis for further interpretation and engagement without needing explicit conceptualization. This thinging process is inherently historicizing, as encounters draw forward the thing’s preimage—the sedimented layers of prior meaning-making—and reconfigure it into a postimage, projecting new possibilities. Many of these possibilities remain latent, yet each potential glimpsed within the encounter becomes an immanent part of the thing’s being at that moment. This creates a labyrinthine structure, where the thing embodies not only what it has been and what it currently is but also what it might have been or could still become. At any spatiotemporal juncture, the thing serves as both an opening and a closure. At this point, the thing’s nonradiant appearance (φαίνεσθαι) arises from its self-concealment, which marks the limits of sensibility:
+It is noteworthy that encounters with Φ can emerge as purely embodied interactions, that is, skilled actions that do not require conscious deliberation or reflection. Essentially, they unfold in sensible forms, which exist as pre-understood backgrounds of meaning, forming the basis for further interpretation and engagement without needing explicit conceptualization. This thinging process is inherently historicizing, as encounters draw forward Φ’s preimage—the sedimented layers of prior meaning-making—and reconfigure it into a postimage, projecting new possibilities. Many of these possibilities remain latent, yet each potential glimpsed within the encounter becomes an immanent part of Φ’s being in that instance. This creates a labyrinthine structure, where Φ embodies not only what it has been and what it currently is but also what it might have been or could still become. At any spatiotemporal juncture, Φ serves as both an opening and a closure. At this point, Φ’s nonradiant appearance (φαίνεσθαι) arises from its self-concealment, which marks the limits of sensibility:
 
 $$
 \phi_{\text{non}}(t) = \lim_{t \to \infty} \sum_{i=1}^{n} \left( A_i(t) \cdot \nabla F_i(t) \right)
 $$
 
-This formula represents how moments of indeterminacy accumulate, creating a sort of uncanny presence that both reveals and withholds the transcendent.
+This formula represents how time-spaces of indeterminacy accumulate, creating a sort of uncanny presence that both reveals and withholds the transcendent.
 
-In the meantime, when we use a thing in its equipmentality, the wear and decay of it confirm the limits of its temporality and express a deeper existential truth about finitude. This leads to an ontological disclosure of worldliness:
-
-$$
-Eq(m) = \int_{t_0}^{t_1} \nabla Th(m) \, dt
-$$
-
-Then, metaontic awareness is triggered when the interplay of thinging, equipmentality, and nonradiant appearance allows the individual temporality to glimpse its own finitude through the thing's ontological disclosure:
+In the meantime, when we use the thing in its equipmentality, the wear and decay of it confirm the threshold of its temporality and express a deeper existential truth about finitude. This leads to an ontological disclosure of worldliness:
 
 $$
-MA = \lim_{n \to \infty} \sum_{\text{thing} \in T} Eq(\text{thing}) \times \phi_{\text{non}}(t)
+Eq(Φ) = \int_{t_0}^{t_1} \nabla Th(Φ) \, dt
 $$
 
-Metaontic Awareness is the concept I define as the perceptual transition where conceptual understanding yields to aesthetic attunement as well as its disruption. This transition happens when meaning is no longer sensed as constrained by cognitive categories but as the thing’s self-authorizing presence. This awareness occurs precisely at the boundary where composed homogeneity, which describes how things appear within temporal-spatial contexts as structured givenness (following Kant: though this appearance is a posteriori, it relies on transcendental temporal conditions that render things intelligible), manifests in a way that elevates the subject into the existential confrontation with the occurrence of being by depriving it of its subjectivity, hinting at the divine. Fundamentally, this alignment preserves the freedom of the thing and reflects its dual nature: as Heidegger writes in *The Thing*, it contains mortality as part of its structure, stating that “as the shrine of Nothing, death harbors within itself the presencing of Being.” It is also a recursive structure that unfolds through repeated encounters between human beings and things.
+Then, metaontic awareness is triggered when the interplay of thinging, equipmentality, and nonradiant appearance allows the individual temporality to glimpse its own finitude through Φ's ontological disclosure:
+
+$$
+MA = \lim_{n \to \infty} \sum_{Φ \in T} Eq(Φ) \times \phi_{\text{non}}(t)
+$$
+
+Metaontic Awareness is the concept I define as the perceptual transition where conceptual understanding yields to aesthetic attunement as well as its disruption. This transition happens when meaning is no longer sensed as constrained by cognitive categories but as Φ’s self-authorizing presence. This awareness occurs precisely at the boundary where composed homogeneity, which describes how things appear within temporal-spatial contexts as structured givenness (following Kant: though this appearance is a posteriori, it relies on transcendental temporal conditions that render things intelligible), manifests in a way that elevates the subject into an existential confrontation with the occurrence of being by depriving it of its subjectivity, hinting at the divine. Fundamentally, this alignment preserves the freedom of thinging and reflects its dual nature: as Heidegger writes in "The Thing," it contains mortality as part of its structure, stating that “as the shrine of Nothing, death harbors within itself the presencing of Being.” It is also a recursive structure that unfolds through repeated encounters between human beings and things.
+
+Aesthetic Ontogenesis is subsequently introduced as the process by which the perceptual essence of things continually evolves. This evolution is intrinsically rooted in the concept of V_{\text{void}}, signifying the structural absence at the heart of each perceptual schema, which provides the condition of openness that allows Φ to undergo infinite replacement of its manifestations, leading to the splendor of aesthetic diversity.
+
+$$
+AO_{world} = \lim_{n \to \infty} \sum_{\Phi \in T} \left( \int_{t_0}^{t_1} \nabla Th(\Phi) \, dt \times \phi_{\text{non}}(t) \right) \otimes V_{\text{void}}
+$$
+
+At the core of this model is the idea that the void, no longer an absence but a presence so full, so weighty, so dense with all that might have been and never will be, is the source of magnificence in perception, as it holds within it the tangled roots of a million forgotten things, memories of what was and what could never be, reborn again and again in the light of each new moment’s seeing. When the prisoner steps out of the cave, when he steps into the sun that blinds and scorches, it is a step into the raw, aching throb of what it means to see and not understand, to be seized by the world’s hard, blinding, uncaring beauty. Therefore, it is in this moment, in the silence between cognition and meaning, where everything stands naked and true, that love emerges. Love then is not the reaching for the light but the being broken by it, the knowing that to stand there in its glare, unable to hide, is all that we can do—in surrender to presence.
