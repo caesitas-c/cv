@@ -32,11 +32,11 @@ In the future, I would like to continue my exploration of the complex relationsh
 
 This framework conceptualizes worldhood as a recursive process, wherein meaning unfolds through temporal alignment. It offers a non-linear model of how individuals and things co-constitute each other’s worlds, generating historical being through encounters.
 
-Time, in this model, is structured following Martin Heidegger as ecstatic temporality, where past, future, and present are dynamically interconnected. The past (P) persists as thrownness, providing the ontological backdrop that informs and limits future possibilities. The future (F) unfolds as a horizon of anticipated possibilities, which only become actualized in the present (A) through the act of reversal. The present emerges as a dynamic synthesis of what has been and what is to come:
+In the model, time is structured following Martin Heidegger as ecstatic temporality, where past, future, and present are dynamically interconnected. The past (P) persists as thrownness, providing the ontological backdrop that informs and limits future possibilities. The future (F) unfolds as a horizon of anticipated possibilities, which only become actualized in the present (A) through the act of reversal. The present emerges as a dynamic synthesis of what has been and what is to come:
 
 P_i(τ) ⊗ F_i(τ) → A_i(τ)
 
-Every moment participates in the ongoing construction of meaning, integrating what has been and what is to come, ensuring that meaning is always becoming. In the totality of significances, the thing acts as a nodal point. Unlike an object, which is a cognitive representation of a thing, a thing in its lived encounter is an evolving time-space. Each encounter leaves traces that reshape its ontic contents as preserved in logos (in Heidegger's words, the gathering gatheredness), even when the thing is only recalled, dreamed of, imagined, or hinted as the absent.
+Every moment participates in the ongoing construction of meaning. In the totality of significances, the thing acts as a nodal point. Unlike an object, which is a cognitive representation of a thing, a thing in its lived encounter is an evolving time-space. Each encounter leaves traces that reshape its ontic content as preserved in logos (in Heidegger's words, the gathering gatheredness), even when the thing is only recalled, dreamed of, imagined, or hinted as the absent.
 
 ∇ Th(m)
 
