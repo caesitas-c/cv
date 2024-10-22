@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /presentations/
+permalink: /papers/
 title: papers
 pretty-title: 
 type: research
