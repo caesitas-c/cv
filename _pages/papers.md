@@ -10,8 +10,8 @@ nav_order: 3
 
 # **Heidegger’s World: Re-Enchanting through Thingness**
 
-**Religions 2024, 15(1), 3;**  
-https://doi.org/10.3390/rel15010003
+**Religions 2024, 15(1), 3;**  [
+https://doi.org/10.3390/rel15010003](https://www.mdpi.com/2077-1444/15/1/3)
 
 This study investigates how Martin Heidegger’s notion of “the thing” (Das Ding) can help rescue modern disenchantment with regard to its root in the World, a concept developed from “being-in-the-world” presented in *Being and Time*, and later taken as a participant in the bilateral *polemos* illustrated in *die Gestalt* (signifying Being’s strife to disclose itself against the Earth: self-concealing concealment). In Section 1, I analyze the occurrence of disenchantment by critically reviewing several thinkers’ discussions of it, pointing out that “faciality”—which has structured the modern Western understanding of reality—is the cornerstone of ontotheology, as well as the collapse of it: disenchantment. In Section 2, to demonstrate how Heidegger’s rediscovery of usefulness in a de-subjectified discourse of signification has challenged the positivistic view attached to “faciality”, I examine Heidegger’s idea of “readiness-to-hand,” revealing the basic temporal–spatial units composing the “handiness” of categorical beings and its relation to Dasein, progressing thereon to the analysis of a thing-centered worldview of Heidegger’s phenomenology. In Section 3, I demonstrate how this thing-centered worldview has the potential to form a preparative stage for re-enchantment of the World by uncovering the concealed existentiality within things, aligning with Heidegger’s *polemos* in his philosophy of art.
 
@@ -21,7 +21,7 @@ This study investigates how Martin Heidegger’s notion of “the thing” (Das 
 # **The Sacred in Thinging: Heidegger’s “Design” in the Light of Kantian Aesthetics and the Telos of Nature**
 
 **Religions 2024, 15(10), 1181;**  
-https://doi.org/10.3390/rel15101181
+[https://doi.org/10.3390/rel15101181](https://www.mdpi.com/2077-1444/15/10/1181)
 
 This article offers a fresh exegesis of Heidegger’s philosophy of art, focusing on his conceptualization of artwork as the reproduction of the thing’s general essence. Grounding the analysis in Heidegger’s revisit of Kant’s Transcendental Aesthetic, this study explores Heidegger’s interpretation of a thing as a “composed homogeneity” that reveals inherent determinations of temporality and spatiality in the self-presence of beings as a phenomenon grasped within finite human cognition. This is inextricably linked to the ecstatic temporality of Dasein, elucidating a cyclical human–thing dynamic integral to Heidegger’s ontology. Going deeper, I draw parallels between Kant’s “supersensible” realm and Heidegger’s “earth”, revealing a teleological (ethical) design manifested in art that captures the dual essence of Nature—using Kantian terminology, its purposiveness and contrapurposiveness—intersecting with Heidegger’s notion of the counter-essence of ἀλήθεια in relation to freedom. Finally, I show how the manifold aesthetic metamorphoses of this existential scheme within the *existentiell* ordinariness through nonradiant *φαίνεσθαι*, such as equipmentality, emerge as the everyday incarnation of this design.
 
