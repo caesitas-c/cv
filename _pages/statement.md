@@ -57,7 +57,7 @@ $$
 \phi_{\text{non}}(t) = \lim_{t \to \infty} \sum_{i=1}^{n} \left( P_i(t) \cdot A_i(t) \cdot \nabla F_i(t) \right)
 $$
 
-This formula represents how time-spaces of indeterminacy accumulate, creating a sort of uncanny presence that both reveals and withholds the transcendent.
+This formula represents how time-spaces of indeterminacy accumulate, creating a sort of uncanny presence that simultaneously reveals and withholds the transcendent.
 
 In the meantime, when we use the thing in its equipmentality, the wear and decay of it confirm the threshold of its temporality and express a deeper existential truth about finitude. This leads to an ontological disclosure of worldliness:
 
