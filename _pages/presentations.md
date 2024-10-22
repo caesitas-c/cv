@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /presentations/
-title: presentations
+permalink: /papers/
+title: papers
 pretty-title: 
 type: research
 description: 
