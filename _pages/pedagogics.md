@@ -4,13 +4,13 @@ permalink: /pedagogics/
 title: pedagogics
 pretty-title: Teaching Philosophy & Diversity Statement
 type: teaching
-description: philosophy description.
+description: 
 nav: true
 nav_order: 1
 
 ---
 
-**Teaching Philosophy**
+# **Teaching Philosophy**
 
 From my perspective, the foundational principle for teaching philosophy lies in fostering empathic possibilities. These were possibilities that lay dormant within us, emerging while we find ourselves asking questions that stop us in our tracks—questions about life, meaning, or why things are the way they are. I still recall, as a child, standing under the stream of water in the shower and wondering why I was in this body and not another’s. It wasn’t a deliberate reflection I sought out, nor was it something I had words for at the time, but it stayed with me. Over the years, I realized that this simple, almost accidental thought was my first encounter with the kind of philosophical wonder that compels us to look at the world anew.
 
@@ -26,7 +26,7 @@ In general, my teaching is grounded in the belief that education is a transforma
 
 ---
 
-**Diversity Statement**
+# **Diversity Statement**
 
 As a woman from an authoritarian country where the nurturing of independent thought is not encouraged, my exposure to philosophy was limited until I arrived in the United States. Throughout my journey as a graduate student, I have keenly felt the constraints that stem from my personal development history, which is characterized by a kind of “otherness.” It often feels like an adult learning a language that most of the people around you have mastered since childhood. Beyond the study of terms, rhetoric, and argumentation, I must immerse myself in a wholly different "referential totality." Nevertheless, amidst occasional self-doubt, I have gradually discovered how the distinctive insights derived from my own background can indispensably enrich my inquiry of essential questions of being human. For instance, my understanding of Eastern religions equips me with a diverse lexicon, examples, and viewpoints that shed light on concepts such as appearance, recurrence, emptiness, and finiteness. As an educator, navigating cross-cultural challenges has deepened my empathy for the unique struggles and insecurities faced by underrepresented students in academia. Recognizing their often-unspoken sufferings, I fervently champion enhanced communication to foster genuine mutual understanding. Furthermore, I endeavor to mentor my students towards intellectual accomplishments that highlight their distinctive roots and narratives.
 
