@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /papers/
+permalink: /presentations/
 title: 
 pretty-title: 
 type: research
 description: 
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 # **Heidegger’s World: Re-Enchanting through Thingness**
