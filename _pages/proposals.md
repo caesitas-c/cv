@@ -6,7 +6,7 @@ pretty-title: Experience
 type: research
 description: proposed projects
 nav: true
-nav_order: 2
+nav_order: 
 ---
 
 proposed projects text.
