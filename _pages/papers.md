@@ -5,7 +5,7 @@ title: papers
 pretty-title: Papers
 type: research
 description: 
-nav_order: 2
+nav_order: 3
 ---
 <!-- _pages/papers.md -->
 <div class="publications">
