@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /proposals/
+permalink: //
 title: proposals
 pretty-title: Experience
 type: research
