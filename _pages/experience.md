@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experience/
-title: 
+title: experience
 pretty-title: 
 type: teaching
 description: 
