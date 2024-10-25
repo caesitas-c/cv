@@ -11,14 +11,14 @@ nav_order: 2
 ---
 ### Adjunct Professor  
 **Bergen Community College**  
-**Fall 2023:** [PHR-101-601LS] Introduction to Philosophy  
+- **Fall 2023:** [PHR-101-601LS] Introduction to Philosophy  
 **Responsibilities:** Developing the syllabus and course materials, preparing and delivering lectures on key topics in philosophy, facilitating classroom discussions, holding regular office hours, grading essays and assignments, providing feedback to support student improvement, assisting with course logistics and managing class-related communication.
 
 ---
 
 ### Teaching Associate  
 **Teachers College, Columbia University**  
-**Spring 2020:** [A&HF4092] Education and the Aesthetic Experience  
+- **Spring 2020:** [A&HF4092] Education and the Aesthetic Experience  
 **Responsibilities:** Co-teaching, preparing course materials, grading and commenting on essays, leading class discussions, holding office hours, and providing comprehensive student support.
 
 ---
