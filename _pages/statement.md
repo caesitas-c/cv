@@ -74,4 +74,5 @@ $$
 Th_{polemos} = \int_{t_0}^{t_1} \nabla_{existentiality}(Φ) \times Eq(\Phi) \otimes \phi_{\text{non}}(t) \rightarrow MA \quad \text{and} \quad AO
 $$
 
-In this equation, $Th_{polemos}$ represents the function of things within *polemos*, grounded in the interaction of existential conflict ($\nabla_{existentiality}(Φ)$), equipmental utility ($Eq(\Phi)$), and non-radiant appearance ($\phi_{\text{non}}(t)$). This groundwork supports the emergence of *metaontic awareness* (MA) and *aesthetic ontogenesis* (AO), positioning things as phenomenological carriers of the essential link between humanity and Being.
+In this equation, $$Th_{polemos}$$ represents the function of things within *polemos*, grounded in the interaction of existential conflict ($$\nabla_{existentiality}(Φ)$$), equipmental utility ($$Eq(\Phi)$$), and non-radiant appearance ($$\phi_{\text{non}}(t)$$). This groundwork supports the emergence of *metaontic awareness* (MA) and *aesthetic ontogenesis* (AO), positioning things as phenomenological carriers of the essential link between humanity and Being.
+
