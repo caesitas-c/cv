@@ -74,7 +74,7 @@ $$
 Th_{polemos} = \int_{t_0}^{t_1} \nabla_{existentiality}(Φ) \times Eq(\Phi) \otimes \phi_{\text{non}}(t) \rightarrow MA \quad \text{and} \quad AO
 $$
 
-The integral over a time interval \($$[t_0, t_1]\$$) suggests that the interaction involving \($$Th_{polemos}\$$) occurs within a finite temporal framework. The transformation implied by the formula ($$\(\rightarrow MA\) and \(AO\)$$) indicates that this interaction results in a form of emergence and creative unfolding, characteristic of *poiesis*.
+The integral over a time interval \($$[t_0, t_1]\$$) suggests that the interaction involving \($$Th_{polemos}\$$) occurs within a finite temporal framework. The transformation implied by the formula ($$\(\rightarrow MA\)  and  \(AO\)$$) indicates that this interaction results in a form of emergence and creative unfolding, characteristic of *poiesis*.
 
 
 I have published two chapters from my dissertation, Chapter 3 and Chapter 5. Chapter 3 was adapted into "Heidegger's World-Re-enchanting through Thingness," which focuses on the World section. In this article, I looked into Heidegger’s concept of readiness-to-hand and developed a thing-centered worldview to address modern disenchantment. The reading revealed an ontological transition from a Dasein-centric perspective to a framework where things embody existential significance through their inherent handiness. This exploration contributes to understanding how categorial beings align with Heidegger’s polemos model, showing that the uncovering of existential conflict within things acts as a precursor to re-enchanting the World.
@@ -84,14 +84,14 @@ Chapter 5 was adapted into "The Sacred in Thinging: Heidegger’s ‘Design’ i
 Following this line, my recent work, presented at NAAPE 2024, advances my model by combining phenomenological insights and contemporary AI research. The study, titled "Cyclical Worldliness in Machines: Dreyfus, Heidegger, and a Phenomenological Reformulation of AI Critique in the Context of Educational Philosophy," revisits Dreyfus' critique of artificial intelligence and situates it within the context of Heidegger's fundamental ontology. It argues that the embodied "knowing how" and the propositional "knowing that," which characterize humans and machines respectively as proposed by Dreyfus, can coexist and share a common root in Heideggerian philosophy. It is the shared grounding in Dasein's search for a final cause underscores the distinctiveness of human cognition. This argument reaffirms that the ontological uniqueness of human cognition lies in its teleological pursuit, driven by existential openness and ethical directionality—a dimension that current AI, rooted in correlative logic, has yet to fully embody. My research speculates on whether AI, with future advancements, could achieve a form of consciousness and how this potential shift could redefine educational paradigms, positioning AI as either a curatorial entity or a co-evolving partner in the learning process.
 
 $$
-M_{consciousness} = \int_{t_0}^{t_1} \left[\nabla_{existentiality}(\Phi_{human}) \cdot C_{\text{telos}} \right] \oplus \left[\sum_{i=1}^{N} Corr(\Phi_{AI, i}) \otimes \psi_{AI} \right] \rightarrow MA and AO
+M_{consciousness} = \int_{t_0}^{t_1} \left[\nabla_{existentiality}(\Phi_{human}) \cdot C_{\text{telos}} \right] \oplus \left[\sum_{i=1}^{N} Corr(\Phi_{AI, i}) \otimes \psi_{AI} \right] \rightarrow MA \quad \text{and} \quad AO
 $$
 
 Explanation:
-- $\Phi_{human}$ represents the existential unfolding of human consciousness.
-- $C_{\text{telos}}$ indicates the pursuit of final cause, a uniquely human teleological characteristic.
+- $\Phi_{human}$ denotes the existential unfolding of human consciousness.
+- $C_{\text{telos}}$ denotes the pursuit of final cause, a uniquely human teleological characteristic.
 - $Corr(\Phi_{AI, i})$ denotes the correlation-based cognitive patterns of AI.
-- $\psi_{AI}$ stands for the processing mechanism of AI (e.g., machine learning algorithms).
+- $\psi_{AI}$ denotes the processing mechanism of AI (e.g., machine learning algorithms).
 
 This model reflects the integration and comparison of human cognition's teleological pursuit with AI's correlative logic within a unified framework, implying the coexistence and potential development pathways of human and machine intelligence based on the latest study.
 
