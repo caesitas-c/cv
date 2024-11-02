@@ -74,7 +74,7 @@ $$
 Th_{polemos} = \int_{t_0}^{t_1} \nabla_{existentiality}(Φ) \times Eq(\Phi) \otimes \phi_{\text{non}}(t) \rightarrow MA \quad \text{and} \quad AO
 $$
 
-The integral over a time interval \([t_0, t_1]\) suggests that the interaction involving \(Th_{polemos}\) occurs within a finite temporal framework. The transformation implied by the formula (\(\rightarrow MA\) and \(AO\)) indicates that this interaction results in a form of emergence and creative unfolding, characteristic of *poiesis*.
+The integral over a time interval \($$[t_0, t_1]\$$) suggests that the interaction involving \($$Th_{polemos}\$$) occurs within a finite temporal framework. The transformation implied by the formula ($$\(\rightarrow MA\) and \(AO\)$$) indicates that this interaction results in a form of emergence and creative unfolding, characteristic of *poiesis*.
 
 
 I have published two chapters from my dissertation, Chapter 3 and Chapter 5. Chapter 3 was adapted into "Heidegger's World-Re-enchanting through Thingness," which focuses on the World section. In this article, I looked into Heidegger’s concept of readiness-to-hand and developed a thing-centered worldview to address modern disenchantment. The reading revealed an ontological transition from a Dasein-centric perspective to a framework where things embody existential significance through their inherent handiness. This exploration contributes to understanding how categorial beings align with Heidegger’s polemos model, showing that the uncovering of existential conflict within things acts as a precursor to re-enchanting the World.
