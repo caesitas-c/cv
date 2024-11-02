@@ -12,7 +12,7 @@ nav_order: 2
 ### Adjunct Professor  
 **Bergen Community College** 
 **Fall 2023:** [PHR-101-601LS] Introduction to Philosophy  
-**Responsibilities:** Developing the syllabus and course materials, preparing and delivering lectures on key topics in philosophy, facilitating classroom discussions, holding regular office hours, grading essays and assignments, providing feedback to support student improvement, assisting with course logistics and managing class-related communication.
+**Responsibilities:** Developing the syllabus and course materials, preparing and delivering lectures on key topics in philosophy, facilitating classroom discussions, holding regular office hours, grading essays and assignments, providing feedback, assisting with course logistics and managing class-related communication.
 
 ---
 
