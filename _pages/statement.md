@@ -87,10 +87,10 @@ M_{consciousness} = \int_{t_0}^{t_1} \left[\nabla_{existentiality}(\Phi_{human})
 $$
 
 Explanation:
-- $\Phi_{human}$ denotes the existential unfolding of human consciousness.
-- $C_{\text{telos}}$ denotes the pursuit of final cause, a uniquely human teleological characteristic.
-- $Corr(\Phi_{AI, i})$ denotes the correlation-based cognitive patterns of AI.
-- $\psi_{AI}$ denotes the processing mechanism of AI (e.g., machine learning algorithms).
+- $$\Phi_{human}$$ denotes the existential unfolding of human consciousness.
+- $$C_{\text{telos}}$$ denotes the pursuit of final cause, a uniquely human teleological characteristic.
+- $$Corr(\Phi_{AI, i})$$ denotes the correlation-based cognitive patterns of AI.
+- $$\psi_{AI}$$ denotes the processing mechanism of AI (e.g., machine learning algorithms).
 
 This model reflects the integration and comparison of human cognition's teleological pursuit with AI's correlative logic within a unified framework, implying the coexistence and potential development pathways of human and machine intelligence based on the latest study.
 
