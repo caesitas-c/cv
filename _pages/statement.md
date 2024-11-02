@@ -10,7 +10,7 @@ nav_order: 1
 ---
 # **A Time to Scatter Stones and a Time to Gather Stones Together**
 
-1. Preface
+I. Preface
 
 In Lawrence Block’s *Eight Million Ways to Die*, Chance, an African-American character, shares a visceral bond with a mask from his homeland, describing it not merely as an artifact but as “the real thing.” This mask, for him, is a bridge to ancestral memory, embodying one of the most extreme possibilities of temporal generation of thingness. “The very first piece I bought, I still have it. It’s hanging in the bedroom. A Dan mask. Poro Society. I didn’t know shit about African art but I responded to the mask’s artistic integrity. […] What happened was I looked at that piece of smooth black wood and I was looking in a mirror. I saw myself, I saw my father, I was looking back through the damned ages. You know what I’m talking about?” It was this passage—alongside William Faulkner’s use of the clock in *The Sound and the Fury* as a haunting reminder of time’s relentless pull, and Maupassant’s portrayal of furniture animated with eerie life—that pushed me, as a literature undergraduate, to question the silent power of things as an agency *creating* our sensible world in philosophy.
 
@@ -18,7 +18,7 @@ Philosophy has long grappled with the nature of beings and their relational stru
 
 My research addresses this gap by systematically defining ontological relationships within the phenomenological tradition. It specifically examines the recursive interactions through which beings—both human and non-human—mutually shape and redefine their realities. More broadly, I investigate the impact of these processes on the constitution of historical existence and its temporal dynamics. Art and aesthetics play a central role in this work, as they often encapsulate and condense these processes into concentrated, evocative forms. My current studies on artificial intelligence, particularly large language models, extends this trajectory by examining how computational systems similarly distill and reflect historical existence—this time through algorithmic means.
 
-2. Model
+II. Model
    
 While I do not primarily identify as an analytic philosopher, I will employ a series of formal models to elucidate the framework I have developed throughout my graduate career. This framework offers a non-linear model that maps the intertwining and evolution of beings within their ontological landscapes, introducing new concepts such as metaontic awareness, aesthetic ontogenesis, and cycling worldliness.
 
@@ -64,7 +64,7 @@ $$
 
 At the core of this model is the idea that the void, vno longer an absence but a presence so full, so weighty, so dense with all that might have been and never will be, is the source of magnificence in perception, as it holds within it the tangled roots of a million forgotten things, memories of what was and what could never be, reborn again and again in the light of each new moment’s seeing. When the prisoner steps out of the cave, when he steps into the sun that blinds and scorches, it is a step into the raw, aching throb of what it means to see and not understand, to be seized by the world’s hard, blinding, uncaring beauty. Therefore, it is in this moment, in the silence between cognition and meaning, where everything stands naked and true, that love emerges. Love then is not the reaching for the light but the being broken by it, the knowing that to stand there in its glare, unable to hide, is all that we can do—in surrender to presence.
 
-3. Progress
+III. Progress
 
 In my Ph.D. dissertation, "Heidegger’s *polemos*: An Aesthetic Inquiry," I establish the theoretical foundation of my model by providing an in-depth exegesis of Heidegger’s mid-to-late philosophy, particularly his concept of *polemos* (strife). Through an analysis of art as the rift-design between World and Earth, I clarify the mediation of thingness in the relationship between humanity and the sacred within a modern context of divine absence, with freedom as its ultimate telos. Within Heidegger’s frameworks of Being-in-the-world and the Fourfold, I elucidate how things gather meaning and embody authenticity by carrying the temporal and finite nature of existence. The existential conflict embedded in things, as articulated through *poiesis* since the inception of words, enables humans to confront their own finitude, framing an integrated model where art, existence, truth, and beauty converge. I extend *polemos* through *logos* as an interpretative structure, showing that *logos*, as the struggle to reveal phenomena in their withdrawal, encompasses a variety of expressions—literary, religious, and technological. This interpretative framework suggests that *logos* can potentially reconnect with the mystical in a post-thematic manner, offering new ways to comprehend Being within contemporary life.
 
@@ -95,5 +95,6 @@ Explanation:
 
 This model reflects the integration and comparison of human cognition's teleological pursuit with AI's correlative logic within a unified framework, implying the coexistence and potential development pathways of human and machine intelligence based on the latest study.
 
+IV. Plan
 
 
