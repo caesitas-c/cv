@@ -7,6 +7,14 @@ type: research
 description: 
 nav_order: 3
 ---
+# **Heidegger's Polemos: An Aesthetic Inquiry**
+
+**Columbia Academic Commons**  [https://academiccommons.columbia.edu/doi/10.7916/beg8-kq12](https://academiccommons.columbia.edu/doi/10.7916/beg8-kq12).
+
+In mid-later Heidegger’s thought, polemos, an idea he borrows from Heraclitus’ Fragment 53, prevails in his works as that which creates the possibility of a fundamentally metaphysical decision of to-be-or-not-to-be. This decision clearly corresponds to the primal conflict between the “world” and the “earth” (the concealment and the unconcealment of Being) in a “rift-design” that he depicts in “The Origin of the Work of Art.” Based on a textual analysis of “The Origin” and related writings, which follows a phenomenological examination of the guiding questions in Heidegger’s progression from the study of Dasein to the study of being as such, I provide an exegesis that clarifies how, in Heidegger’s conception of art, polemos preserved by thinghood is entangled with other elements in his entire metaphysical inquiry. I show that polemos is a re-enchanting path in the light of which Heidegger ontologically uncovers the predetermined ethical connection between the human and the sacred, having as its medium the thing and as its end freedom, with the potential of bringing salvific power to a destitute age characterized by positivistic machination. Moreover, by interpreting Heidegger’s concept of beauty as phainesthai engaged in and with aletheia conditioned by polemos, I illustrate Heidegger’s reconfiguration of the history of Western metaphysics in order to illuminate its repetitive moments through which he overcomes it.
+
+**Keywords**: Metaphysics; Aesthetics; Art and morals; Heidegger; Heraclitus
+
 
 # **Heidegger’s World: Re-Enchanting through Thingness**
 
