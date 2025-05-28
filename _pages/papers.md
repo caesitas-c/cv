@@ -10,7 +10,7 @@ nav_order: 3
 
 # **Recalibrating the Noumenal: Hölderlin’s Translational Intervention from Kant to Heidegger**
 
-**SPEP 2025;**
+**SPEP 2025**
 
 This article explores how Friedrich Hölderlin’s radical translational techniques in Antigone challenge Kant’s epistemic framework and extend the status of language beyond mere representation. By highlighting internalized sensation, Hölderlin simulates an effect akin to intellectual intuition without discarding Kant’s phenomenon–noumenon divide. His estranged forms reintroduce archaic sociopolitical tensions, thereby demonstrating that translation can partially disclose what remains inaccessible to finite cognition. Walter Benjamin and Martin Heidegger subsequently amplified this insight, grounding hermeneutic phenomenology as the necessary response to Kant’s lingering restrictions. Thus, language emerges as an irreducible locus of ontological articulation rather than a neutral conduit. It redefines poetic thinking.
 
