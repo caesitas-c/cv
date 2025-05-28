@@ -9,16 +9,6 @@ nav: true
 nav_order: 
 ---
 
----
-layout: page
-permalink: /papers/
-title: papers
-pretty-title: Papers
-type: research
-description: 
-nav_order: 3
----
-
 # **Recalibrating the Noumenal: Hölderlin’s Translational Intervention from Kant to Heidegger**
 
 **SPEP 2025**
