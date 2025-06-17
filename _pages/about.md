@@ -23,5 +23,5 @@ My core curiosity revolves around understanding how the aesthetic facets of huma
 
 Yet, my love of words is not limited to the academic. I indulge in creative writing, crafting short stories in Mandarin and English, some of which have been published. It’s my alternative, more intimate canvas, where ideas are painted not only with intellect but also with <i>eros</i> and <i>phantasia</i>.
 
-Please find my [CV](https://github.com/user-attachments/files/18976141/Xiaochen.Zhao.CV.2024.10.7.pdf) here.
+Please find my [CV][Xiaochen Zhao CV - Updated - 2025.5.pdf](https://github.com/user-attachments/files/20778850/Xiaochen.Zhao.CV.-.Updated.-.2025.5.pdf) here.
 
