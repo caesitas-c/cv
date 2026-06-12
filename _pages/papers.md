@@ -10,7 +10,7 @@ nav_order: 3
 
 # **Recalibrating the Noumenal: Hölderlin’s Translational Intervention at the Kantian Boundary and Its Afterlife in Benjamin and Heidegger**
 
-**SPEP 2025**
+**journal of speculative philosophy, vol. 40, no. 3, 2026**
 
 While post-Kantian philosophy has long grappled with how language relates to its non-discursive ground, Hölderlin’s translational practice offers an overlooked pathway through this impasse. This article argues that Hölderlin’s translation of Sophocles’s Antigone recalibrates Kant’s noumenon through linguistic materiality. By employing syntactic rupture and lexical estrangement, Hölderlin simulates the affective profile of intellectual intuition without collapsing the phenomenon-noumenon divide, thereby externalizing reflective judgment through linguistic form, enacting symbolic hypotyposis in the materiality of the text. Through close readings of the First Stasimon and opening dialogue, the article demonstrates ways in which Hölderlin’s intervention renders the transcendent palpable within immanent textual texture. This translational turn establishes a crucial but underexamined lineage for Walter Benjamin’s pure language and Martin Heidegger’s hermeneutic phenomenology, positioning language as an irreducible locus of ontological disclosure. The analysis thus reveals how Hölderlin’s practice prefigures twentieth-century theories of linguistic ontology.
 
