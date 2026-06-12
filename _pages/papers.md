@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers/
 title: papers
-pretty-title: Papers
+pretty-title: 
 type: research
 description: 
 nav_order: 3
