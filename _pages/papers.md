@@ -8,13 +8,13 @@ description:
 nav_order: 3
 ---
 
-# **Recalibrating the Noumenal: Hölderlin’s Translational Intervention from Kant to Heidegger**
+# **Recalibrating the Noumenal: Hölderlin’s Translational Intervention at the Kantian Boundary and Its Afterlife in Benjamin and Heidegger**
 
 **SPEP 2025**
 
-This article explores how Friedrich Hölderlin’s radical translational techniques in Antigone challenge Kant’s epistemic framework and extend the status of language beyond mere representation. By highlighting internalized sensation, Hölderlin simulates an effect akin to intellectual intuition without discarding Kant’s phenomenon–noumenon divide. His estranged forms reintroduce archaic sociopolitical tensions, thereby demonstrating that translation can partially disclose what remains inaccessible to finite cognition. Walter Benjamin and Martin Heidegger subsequently amplified this insight, grounding hermeneutic phenomenology as the necessary response to Kant’s lingering restrictions. Thus, language emerges as an irreducible locus of ontological articulation rather than a neutral conduit. It redefines poetic thinking.
+While post-Kantian philosophy has long grappled with how language relates to its non-discursive ground, Hölderlin’s translational practice offers an overlooked pathway through this impasse. This article argues that Hölderlin’s translation of Sophocles’s Antigone recalibrates Kant’s noumenon through linguistic materiality. By employing syntactic rupture and lexical estrangement, Hölderlin simulates the affective profile of intellectual intuition without collapsing the phenomenon-noumenon divide, thereby externalizing reflective judgment through linguistic form, enacting symbolic hypotyposis in the materiality of the text. Through close readings of the First Stasimon and opening dialogue, the article demonstrates ways in which Hölderlin’s intervention renders the transcendent palpable within immanent textual texture. This translational turn establishes a crucial but underexamined lineage for Walter Benjamin’s pure language and Martin Heidegger’s hermeneutic phenomenology, positioning language as an irreducible locus of ontological disclosure. The analysis thus reveals how Hölderlin’s practice prefigures twentieth-century theories of linguistic ontology.
 
-**Keywords**: Philosophy of translation; Hölderlin; Post-Kant aesthetics; Hermeneutic phenomenology 
+**Keywords**: Hölderlin; noumenon; linguistic materiality; translation; hermeneutic phenomenology
 
 
 # **Cyclical Worldliness in Machines: Dreyfus, Heidegger, and a Phenomenological Reformulation of AI Critique in the Context of Educational Philosophy**
